@@ -1,0 +1,10 @@
+public class First
+{
+private int a  = 1;
+private string First_name = devops;
+private string second_name = training;
+
+public static void main(String[] args){
+System.out.println("I am Devops");
+  }  
+}
